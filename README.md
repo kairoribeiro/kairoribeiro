@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there👋, I am Kairo 👨‍💻
+
+I'm a NYC based Software Engineer constantly pushing myself to learning new skills and technologies. 
+
 
 <!--
 **kairoribeiro/kairoribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
