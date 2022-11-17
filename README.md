@@ -2,7 +2,8 @@
 
 <h2>I'm a NYC based Software Engineer constantly pushing myself to learning new skills and technologies.</h2>
 
-<img align="center" src="https://freeimage.host/i/H91BmMB">
+<img align="center" src="https://i.ibb.co/GWZb0d5/IMG-4382.jpg" width="400px">
+<br>
 
 
  <div>
