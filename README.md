@@ -2,6 +2,8 @@
 
 <h2>I'm a NYC based Software Engineer constantly pushing myself to learning new skills and technologies.</h2>
 
+<img align="center" src="https://freeimage.host/i/H91BmMB">
+
 
  <div>
       <h1 align="center">My Skills</h1>
