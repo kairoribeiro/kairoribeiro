@@ -1,6 +1,6 @@
 <h2>Hi there👋, I am Kairo 👨‍💻</h2>
 
-<h2>I'm a NYC based Software Engineer constantly pushing myself to learning new skills and technologies.</h2>
+<h2>I'm a NYC based Software Engineer constantly pushing myself for learning new skills and technologies.</h2>
 
 <div align="center">
 <img  src="https://live.staticflickr.com/65535/52504529207_33102780fc.jpg" width="400px">
