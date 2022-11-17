@@ -1,10 +1,10 @@
-### Hi there👋, I am Kairo 👨‍💻
+<h2>Hi there👋, I am Kairo 👨‍💻</h2>
 
-I'm a NYC based Software Engineer constantly pushing myself to learning new skills and technologies. 
+<h2>I'm a NYC based Software Engineer constantly pushing myself to learning new skills and technologies.</h2>
 
 
  <div>
-      <h3>My Skills</h3>
+      <h1 align="center">My Skills</h1>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
@@ -27,7 +27,7 @@ I'm a NYC based Software Engineer constantly pushing myself to learning new skil
   <hr>
   
   <div align="center">
- <h3>Reach out:</h3>
+ <h1>Reach Out</h1>
     <a href="https://kairo-ribeiro-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white"/>  </a>
     <a href="https://www.linkedin.com/in/kairo-ribeiro/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>  </a>
  </div>
