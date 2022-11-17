@@ -21,9 +21,16 @@ I'm a NYC based Software Engineer constantly pushing myself to learning new skil
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
     </div>
     <br>
-  
+  <div align="center">
    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairoribeiro&layout=compact&theme=react" /></a> 
+ </div>
   <hr>
+  
+  <div align="center">
+ <h3>Reach out:</h3>
+    <a href="https://kairo-ribeiro-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
+    <a href="https://www.linkedin.com/in/kairo-ribeiro/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
+ </div>
 
 
 <!--
