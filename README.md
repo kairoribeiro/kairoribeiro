@@ -20,6 +20,10 @@ I'm a NYC based Software Engineer constantly pushing myself to learning new skil
       <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
     </div>
+    <br>
+  
+   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairoribeiro&layout=compact&theme=react" /></a> 
+  <hr>
 
 
 <!--
