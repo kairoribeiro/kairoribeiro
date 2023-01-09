@@ -33,7 +33,7 @@
   
   <div align="center">
  <h1>Reach Out</h1>
-    <a href="https://kairo-ribeiro-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white"/>  </a>
+    <a href="https://kairo-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white"/>  </a>
     <a href="https://www.linkedin.com/in/kairo-ribeiro/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>  </a>
  </div>
 
